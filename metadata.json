@@ -1,0 +1,5 @@
+{
+  "name": "Copy of ToonMotion",
+  "description": "Turn static characters into animated frames using Gemini AI. Upload a character, set a prompt, and watch it come to life.",
+  "requestFramePermissions": []
+}
